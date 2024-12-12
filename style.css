@@ -43,3 +43,9 @@ body {
 .btn:hover {
   background: #555;
 }
+
+#operators,
+#clear,
+#equals {
+  background-color: rgb(164, 114, 23);
+}
