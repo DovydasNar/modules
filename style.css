@@ -49,3 +49,9 @@ body {
 #equals {
   background-color: rgb(164, 114, 23);
 }
+
+#operators:hover,
+#clear:hover,
+#equals:hover {
+  background-color: rgb(212, 147, 26);
+}
